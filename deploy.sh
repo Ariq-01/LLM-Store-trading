@@ -15,7 +15,7 @@ PREV_COMMIT=$(git rev-parse HEAD)
 git pull origin main
 
 # Install & build
-npm install --production
+npm install
 npm run build
 
 # Restart app
