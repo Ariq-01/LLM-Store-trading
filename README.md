@@ -1,1 +1,1 @@
-# LLM-Store-trading
+# LLM Store
